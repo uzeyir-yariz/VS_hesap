@@ -1,0 +1,9 @@
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\bin\Debug\hesapMakinasi.exe.config
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\bin\Debug\hesapMakinasi.exe
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\bin\Debug\hesapMakinasi.pdb
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.csprojResolveAssemblyReference.cache
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.Form1.resources
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.Properties.Resources.resources
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.csproj.GenerateResource.Cache
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.exe
+D:\muhammet orhan\visual studio\hesapMakinasi\hesapMakinasi\obj\Debug\hesapMakinasi.pdb
